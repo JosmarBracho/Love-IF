@@ -1,0 +1,13 @@
+body{
+    background: url(img/sun.jpg);
+}
+.text{
+    color: white;
+    background-color: rgba(255, 251, 0, 0.575);
+    border-radius: 5px;
+    padding: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 700px;
+    margin-left:10% ;
+}
+
